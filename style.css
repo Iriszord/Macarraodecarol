@@ -12,7 +12,9 @@
 }
 
 body {
-    background-image: url(imagens/home3.jpg);
+    background-image: url(imagens/LUMINARIAPAGINAPRICIPAL2.jpg);
+    background-size: 100%;
+    background-position: center center;
 }
 
 header {
