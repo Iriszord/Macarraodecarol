@@ -17,11 +17,36 @@ body {
 }
 
 header {
-
+    text-align: center;
+    background-color: #DB2D36;
+    font-family: var(--font-family);
+    color: white;
+    font-size: 80px;
+    height: 140px;
+    width: 1918px;
+    margin: -8px;
+    padding: 1px;
+    padding-bottom: 83px;
 }
 
 nav {
+    background-color: #FDB32D;
+    font-family: var(--font-family);
+    font-size: 40px;
+    text-align: center;
+    width: auto;
+    height: 60px;
+    margin: -8px;
+    padding-top: 8px;
+}
 
+a {
+    color: #DB2D36;
+    text-decoration: none;
+    margin-top: 1px;
+    padding: 1px;
+    border-left: 10px;
+    border-color: var(--footer);
 }
 
 main {
@@ -29,5 +54,12 @@ main {
 }
 
 footer {
-    
+    background-color: var(--footer);
+    color: white;
+    text-align: center;
+    height: 30px;
+    padding: 1px;
+    margin: -8px;
+    margin-top: 79px;
+    padding-bottom: 11px;
 }
