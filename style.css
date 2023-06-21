@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --cor0: #DE6A71;
+    --cor1: #FDB32D;
+    --cor2: #2DB5E2;
+    --cor3: #4D7F42;
+    --cor4: #DB2D36;
+    --footer: black;
+    --font-family: 'Bebas Neue', sans-serif;  
+}
+
+body {
+    background-image: url(imagens/luminaria.pagina\ principal.jpg);
+}
+
+header {
+    color: white;
+    font-family: var(--font-family);
+    font-size: 70px;
+    padding-top: 64px;
+    margin-left: 192px;
+}
+
+article {
+    background-color: rgba(0, 0, 0, 0);
+    color: #FDB32D;
+    font-family: var(--font-family);
+    font-size: 48px;
+    height: 401px;
+    width: 1000px;
+    margin-left: 12px;
+}
+
+footer {
+    
+    text-align: end;
+    font-family: var(--font-family);
+    font-size: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
