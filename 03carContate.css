@@ -23,7 +23,7 @@ header {
     color: white;
     font-size: 80px;
     height: 140px;
-    width: 1918px;
+    width: 100%;
     margin: -8px;
     padding: 1px;
     padding-bottom: 83px;
@@ -32,7 +32,7 @@ header {
 nav {
     background-color: #FDB32D;
     font-family: var(--font-family);
-    font-size: 40px;
+    font-size: 45px;
     text-align: center;
     width: auto;
     height: 60px;
@@ -48,16 +48,30 @@ a {
     border-left: 10px;
     border-color: var(--footer);
 }
+section {
+    font-family: var(--font-family);
+    font-size: 40px;
+    color: #DB2D36;
+    padding-left: 5%;
+}
 
-main {
-
+article {
+    background-color: #FDB32D;
+    color: #4D7F42;
+    font-family: var(--font-family);
+    font-size: xxx-large;
+    text-align: center;
+    width: 50%;
+    margin: -8px;
 }
 
 footer {
-    background-color: var(--footer);
+    background-color: var(--cor2);
     color: white;
     text-align: center;
-    height: 30px;
+    font-family: var(--font-family);
+    font-size: xx-large;
+    height: 84px;
     padding: 1px;
     margin: -8px;
     margin-top: 79px;

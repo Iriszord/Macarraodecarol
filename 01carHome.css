@@ -11,9 +11,7 @@
     --font-family: 'Bebas Neue', sans-serif;  
 }
 
-body {
 
-}
 
 header {
     text-align: center;
@@ -58,9 +56,6 @@ article {
     margin-top: 40px;
 }
 
-article > p {
-
-}
 
 div {
 display: flex;
