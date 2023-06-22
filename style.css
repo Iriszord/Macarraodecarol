@@ -14,7 +14,7 @@
 body {
     height: 100%;
     background-image: url(imagens/LUMINARIAPAGINAPRICIPAL2.jpg);
-    background-size: 100% 100%;
+    background-size: 100% 104%;
     background-position: center top;
     background-repeat: repeat;
 }
@@ -33,7 +33,7 @@ article {
     font-family: var(--font-family);
     font-size: 48px;
     height: 401px;
-    width: 50%;
+    width: 56%;
     margin-left: 2%;
 }
 
